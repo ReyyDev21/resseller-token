@@ -1,7 +1,8 @@
 {
     "blacklist": [],
     "botTokens": [
-        "8029647306:AAGbkCvu8FohV_oxVjQAqCPpP4XNIGfvFc4"
+        "8029647306:AAGbkCvu8FohV_oxVjQAqCPpP4XNIGfvFc4",
+        "/kaizo"
     ],
     "resellers": []
 }
