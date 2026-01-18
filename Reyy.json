@@ -8,6 +8,14 @@
     "dbwa": [
         "6287740979784"
     ],
-    "premiumKeys": [],
+    "premiumKeys": [
+        {
+            "key": "KAIZOO-4VMTSDFGVDFNUHR4-30D",
+            "days": 30,
+            "createdAt": 1768728717595,
+            "expiresAt": 1771320717595,
+            "soldBy": "7578512962"
+        }
+    ],
     "logs": []
 }
